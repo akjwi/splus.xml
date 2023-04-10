@@ -7,4 +7,3 @@ seed(1)
 for _ in range(10):
 	value = random()
 	print(value) 
-	print(".check.fil.biz.splus.xml")
